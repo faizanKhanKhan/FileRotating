@@ -1,4 +1,4 @@
-# SongRotating Statement
+# FileRotating Statement
 Create login window with register username and passward
 Admin only have right to do modification and changes in file. Client can login in page using admin credential and only have access, and client can't make any modification and change in file list.
 file Rotating Web Page
